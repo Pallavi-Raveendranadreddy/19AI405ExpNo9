@@ -3,7 +3,7 @@
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
 </p>
-<h1>Problem Description</h1>
+
 <hr>
 <h2>Wumpus World</h2>
 <hr>
@@ -21,8 +21,8 @@ It is assumed that there will always be a safe path that the agent can take to e
 </p>
 <h1> PROGRAM:</h1>
 
-<h3>DEVELOPED BY : S.JAIGANESH</h3>
-<h3>REGISTER  NUMBER: 212222240037</h3>
+<h3>DEVELOPED BY : VALASAREDDY PALLAVI</h3>
+<h3>REGISTER  NUMBER: 212221240059</h3>
 
 ```py
 wumpus=[["Save","Breeze","PIT","Breeze"],
